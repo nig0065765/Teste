@@ -62,8 +62,3 @@ Scanner teste = new Scanner(System.in);
 		teste.close();
 			}
 	}
-
-
-	}
-
-}
