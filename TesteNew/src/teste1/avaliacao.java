@@ -73,7 +73,11 @@ Scanner teste = new Scanner(System.in);
 		
 		teste.close();
 			}
+<<<<<<< HEAD
 }
 
 }
 }
+=======
+	}
+>>>>>>> a04c0adcf7d910411574ed8ab2f7de0076234692
